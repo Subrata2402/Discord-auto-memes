@@ -8,6 +8,6 @@ pip install discord.py
 ```
 
 
-### How to get client id and secret from reddit ?
+### How to get client id and client secret ?
 Go to https://www.reddit.com/prefs/apps and create an application.
-Then copy client id & secret and paste it.
+Then copy client id & client secret and paste it.
